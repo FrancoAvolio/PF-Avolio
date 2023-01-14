@@ -18,6 +18,14 @@ body{
     margin: 0px;
     border: 0px;
 }
+@media screen and (max-width: 780px){
+  h1{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
 
 header h1{ 
     margin-top: 30px;
@@ -105,7 +113,7 @@ i {
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 120vh;
+    height: 85vh;
     background: url(/img/bath.jpg);
     background-size: cover;
     background-position: center;
@@ -160,9 +168,39 @@ i {
 }
 
 .visit{
-  margin-top: 25px;
+    margin-top: 25px;
 }
 
+.my-vinyl{
+    width: 300px;
+    height: 400px;
+}
+
+.my-porcelanic{
+
+  width: 300px;
+  height: 400px;
+}
+
+.my-portfolio{
+
+  width: 300px;
+  height: 400px;
+
+}
+
+.hereditage-p{
+  font-size: 22px;
+}
+
+.cons-p{
+  font-size: 22px;
+}
+
+.nost-p{
+
+  font-size: 22px;
+}
 .navport{
   color: beige;
   margin-bottom: 70px;
