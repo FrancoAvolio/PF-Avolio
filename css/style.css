@@ -29,7 +29,7 @@ body{
 
 header h1{ 
     margin-top: 30px;
-    margin-left: 50px;
+    margin-left: 30px;
     color: rgb(0, 0, 0);
     font-weight: 400;
     letter-spacing: 8px;
@@ -49,7 +49,7 @@ li a{
     text-decoration: none;
     text-align: right;
     padding: 3px;
-    margin-right: 40px;
+    margin-right: 45px;
     
 }
 
@@ -202,17 +202,17 @@ i {
   font-size: 22px;
 }
 .navport{
-  color: beige;
-  margin-bottom: 70px;
-  border: 5px solid white;
-  padding-right: 35px;
-  font-size: 16px;
+   color: beige;
+   margin-bottom: 70px;
+   border: 5px solid white;
+   padding-right: 35px;
+    font-size: 16px;
   
 }
 
 .logo{
-  width: 165px;
-  height: 180px;
+    width: 165px;
+    height: 180px;
 
 }
 
@@ -225,6 +225,24 @@ i {
 .container-fluid{
     margin-top: 35px;
 }
+
+
+/* inicio portfolio */
+
+.photo-container{
+    margin-top: 88px;
+}
+
+
+.parrafo-img{
+  font-size: 24px;
+  font-weight: 20;
+}
+
+
+
+
+
 
 
 
