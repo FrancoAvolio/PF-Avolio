@@ -18,12 +18,57 @@ body{
     margin: 0px;
     border: 0px;
 }
-@media screen and (max-width: 780px){
+@media screen and (max-width: 850px){
   h1{
     display: flex;
     justify-content: center;
+    background-color: gray;
+  }
+  nav ul li a{ 
+    color: #fcfcfc;
+    margin-top: 45px;
+    margin-left: 65px;
+  }
+
+  body{
+    background-color: black;
+  }
+
+  h5{
+    color: white;
+  }
+  p{
+    color: white;
   }
 }
+
+@media screen and (max-width: 850px){
+  .welcome{
+    display: none;
+  }
+}
+
+@media (orientation: portrait) and (max-width:576px){
+
+section{
+    margin: 15px;
+  }
+
+}
+
+@media (orientation: landscape) and (max-width:576px){
+
+  section{
+      margin: 15px;
+    }
+  
+  }
+
+
+
+
+
+
 
 
 
@@ -163,7 +208,7 @@ i {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 70vh;
+    /* height: 70vh; */
   
 }
 
