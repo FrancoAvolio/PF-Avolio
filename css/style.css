@@ -175,7 +175,7 @@ i {
     align-items: center;
     width: 100vw;
     height: 85vh;
-    background: url(/img/bath.jpg);
+    background: url(../img/bath.jpg);
     background-size: cover;
     background-position: center;
 }
