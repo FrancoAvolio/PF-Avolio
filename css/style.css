@@ -322,6 +322,55 @@ i {
   margin-top: 6px;
 }
 
+/* inicio about */
+
+.ourcompany{
+
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 120px;
+}
+
+.loremcompany{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50vw;
+  margin-top: 0px;
+  height: 30vh;
+  margin-left: 366px;
+ }
+
+ .ourvalues{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+/* inicio contact */
+
+.please{
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+
+.iframe-contact{
+
+  display: flex;
+  justify-content: center;
+  margin-top: 65px;
+}
+
+
+
+
+
+
 
 
 
