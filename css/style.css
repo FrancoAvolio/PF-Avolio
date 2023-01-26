@@ -367,6 +367,11 @@ i {
 }
 
 
+.my-card{
+  display: flex;
+  justify-content: center;
+  
+ }
 
 
 
