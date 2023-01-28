@@ -1,0 +1,114 @@
+// base
+@import './base/variables';
+
+
+
+
+
+
+
+
+
+// components
+    @import './components/header';
+    @import './components/body';
+    @import './components/section';
+    @import './components/footer';
+
+
+
+
+/* inicio portfolio */
+
+.photo-container{
+    margin-top: 88px;
+}
+
+
+.parrafo-img{
+  font-size: 24px;
+  font-weight: 20;
+}
+
+.h2-border{
+  border: 2px solid rgb(122, 114, 34);
+  display: inline-block;
+  margin-top: 6px;
+}
+
+/* inicio about */
+
+.ourcompany{
+
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 120px;
+}
+
+.loremcompany{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50vw;
+  margin-top: 0px;
+  height: 30vh;
+  margin-left: 366px;
+ }
+
+ .ourvalues{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+/* inicio contact */
+
+.please{
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+
+.iframe-contact{
+
+  display: flex;
+  justify-content: center;
+  margin-top: 65px;
+}
+
+
+.my-card{
+  display: flex;
+  justify-content: center;
+  
+ }
+
+ .mein{
+  background-color: black;
+  margin-top: 55px;
+  height: 65vh;
+ }
+
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+  color: #fcfcfc;
+
+}
+
+.me{
+  margin-top: 25px;
+}
+
+
+.section-div{
+  margin-top: 95px;
+}
