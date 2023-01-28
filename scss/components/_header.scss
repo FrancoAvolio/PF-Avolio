@@ -80,12 +80,11 @@ i {
     top:15%;
     left:50%;
     transform:translate(-50%, -50%);
+      span{
+        text-transform: uppercase;
+        display: block;
+      }
    }
-  
-  .welcome span {
-    text-transform: uppercase;
-    display: block;
-  }
   
   .text1 {
    color: #4b4848;
