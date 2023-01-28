@@ -77,18 +77,8 @@ section{
   
   }
 
-
-
-
-
-
-
-
-
-
 header h1{ 
     margin-top: 5px;
-    /* margin-left: -85px; */
     color: rgb(0, 0, 0);
     font-weight: 300;
     letter-spacing: 8px;
@@ -129,9 +119,7 @@ i {
     top:15%;
     left:50%;
     transform:translate(-50%, -50%);
-    /* width:100%; */
-    
-  }
+   }
   
   .welcome span {
     text-transform: uppercase;
@@ -233,7 +221,6 @@ i {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    /* height: 70vh; */
     background-color: rgb(14, 11, 8);
     
   
@@ -373,6 +360,31 @@ i {
   
  }
 
+ .mein{
+  background-color: black;
+  margin-top: 55px;
+  height: 65vh;
+ }
+
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+  color: #fcfcfc;
+
+}
+
+.me{
+  margin-top: 25px;
+}
+
+
+.section-div{
+  margin-top: 95px;
+}
 
 
 
