@@ -1,0 +1,42 @@
+
+@media screen and (max-width: 578px){
+    .mein{
+        display: none;
+    }
+}
+
+
+.loremserv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 55vh;
+    width: 40vw;
+    margin-top: 60px;
+}
+  
+  
+.ourproducts{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 85px;
+}
+  
+.mein{
+    margin-top: 95px;
+    height: 65vh;
+}
+  
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    color: #0e0707;
+}
+  
+  
+.section-div {
+    margin-top: 95px;
+}

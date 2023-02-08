@@ -1,0 +1,23 @@
+.photo-container{
+    margin-top: 88px;
+}
+
+@media (max-width: 578px){
+    
+  .photo-container{
+
+    overflow-x: hidden;
+
+  }
+}
+
+.parrafo-img{
+  font-size: 24px;
+  font-weight: 20;
+}
+
+.h2-border{
+  border: 2px solid rgb(122, 114, 34);
+  display: inline-block;
+  margin-top: 6px;
+}
